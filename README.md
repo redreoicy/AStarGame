@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Taxicab_geometry
 Additionally, there is a 20% chance each turn for an individual enemy to be unable to move, to add some randomness, and simulate slower enemies.
 
 Try not to be eaten!
+
+![Eaten](eaten.png)
